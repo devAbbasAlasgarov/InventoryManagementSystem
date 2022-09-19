@@ -1,7 +1,38 @@
 ﻿<Properties StartupConfiguration="{A09EB937-4A4F-4994-A08A-780C8126029B}|Default">
   <MonoDevelop.Ide.ItemProperties.IMS.CoreBusiness FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.IMS.WebApp PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.IMS.Plugins.EFCore FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="IMS.Plugins.EFCore/InventoryRepository.cs">
+    <Files>
+      <File FileName="IMS.WebApp/Program.cs" Line="23" Column="44" />
+      <File FileName="IMS.Plugins.EFCore/Class1.cs" Line="1" Column="11" />
+      <File FileName="IMS.UseCases/PluginInterfaces/IInventoryRepository.cs" Line="12" Column="1" />
+      <File FileName="IMS.UseCases/Class1.cs" Line="19" Column="2" />
+      <File FileName="IMS.CoreBusiness/Class1.cs" Line="1" Column="28" />
+      <File FileName="IMS.Plugins.EFCore/IMSContext.cs" Line="15" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IMS" expanded="True">
+            <Node name="IMS.CoreBusiness" expanded="True" />
+            <Node name="IMS.Plugins.EFCore" expanded="True" />
+            <Node name="IMS.UseCases" expanded="True">
+              <Node name="PluginInterfaces" expanded="True" />
+            </Node>
+            <Node name="IMS.WebApp" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.IMS.UseCases FirstBuild="True" />
 </Properties>

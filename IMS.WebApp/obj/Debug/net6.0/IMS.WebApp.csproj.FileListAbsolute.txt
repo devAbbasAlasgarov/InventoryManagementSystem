@@ -1,0 +1,9 @@
+/Users/user/Projects/InventoryManagementSystem/IMS/IMS.WebApp/obj/Debug/net6.0/IMS.WebApp.csproj.AssemblyReference.cache
+/Users/user/Projects/InventoryManagementSystem/IMS/IMS.WebApp/obj/Debug/net6.0/IMS.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/InventoryManagementSystem/IMS/IMS.WebApp/obj/Debug/net6.0/IMS.WebApp.AssemblyInfoInputs.cache
+/Users/user/Projects/InventoryManagementSystem/IMS/IMS.WebApp/obj/Debug/net6.0/IMS.WebApp.AssemblyInfo.cs
+/Users/user/Projects/InventoryManagementSystem/IMS/IMS.WebApp/obj/Debug/net6.0/IMS.WebApp.csproj.CoreCompileInputs.cache
+/Users/user/Projects/InventoryManagementSystem/IMS/IMS.WebApp/obj/Debug/net6.0/IMS.WebApp.MvcApplicationPartsAssemblyInfo.cs
+/Users/user/Projects/InventoryManagementSystem/IMS/IMS.WebApp/obj/Debug/net6.0/IMS.WebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/user/Projects/InventoryManagementSystem/IMS/IMS.WebApp/obj/Debug/net6.0/IMS.WebApp.RazorAssemblyInfo.cache
+/Users/user/Projects/InventoryManagementSystem/IMS/IMS.WebApp/obj/Debug/net6.0/IMS.WebApp.RazorAssemblyInfo.cs
