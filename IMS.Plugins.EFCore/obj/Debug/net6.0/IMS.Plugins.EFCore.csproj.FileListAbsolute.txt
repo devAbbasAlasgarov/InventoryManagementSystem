@@ -1,0 +1,5 @@
+/Users/user/Projects/InventoryManagementSystem/IMS/IMS.Plugins.EFCore/obj/Debug/net6.0/IMS.Plugins.EFCore.csproj.AssemblyReference.cache
+/Users/user/Projects/InventoryManagementSystem/IMS/IMS.Plugins.EFCore/obj/Debug/net6.0/IMS.Plugins.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/InventoryManagementSystem/IMS/IMS.Plugins.EFCore/obj/Debug/net6.0/IMS.Plugins.EFCore.AssemblyInfoInputs.cache
+/Users/user/Projects/InventoryManagementSystem/IMS/IMS.Plugins.EFCore/obj/Debug/net6.0/IMS.Plugins.EFCore.AssemblyInfo.cs
+/Users/user/Projects/InventoryManagementSystem/IMS/IMS.Plugins.EFCore/obj/Debug/net6.0/IMS.Plugins.EFCore.csproj.CoreCompileInputs.cache

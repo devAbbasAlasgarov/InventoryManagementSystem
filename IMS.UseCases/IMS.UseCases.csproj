@@ -9,4 +9,10 @@
   <ItemGroup>
     <ProjectReference Include="..\IMS.CoreBusiness\IMS.CoreBusiness.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <None Remove="PluginInterfaces\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="PluginInterfaces\" />
+  </ItemGroup>
 </Project>
