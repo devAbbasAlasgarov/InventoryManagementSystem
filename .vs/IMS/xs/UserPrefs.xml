@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{A09EB937-4A4F-4994-A08A-780C8126029B}|Default">
+  <MonoDevelop.Ide.ItemProperties.IMS.CoreBusiness FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.IMS.WebApp PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.IMS.UseCases FirstBuild="True" />
+</Properties>
